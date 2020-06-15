@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build",
+    "test": "jest",
+    "format": "prettier --write \"**/*.{js,ts,json}\"",
+    "lint": "prettier --check \"**/*.{js,ts,json}\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.0.0",
+    "snowpack": "^2.5.0",
+    "typescript": "^3.9.5"
+  },
+  "name": "rafty",
+  "version": "0.1.0",
+  "description": "2d streamflow canvas game",
+  "main": "index.js",
+  "author": "Cameron Little <cameron@camlittle.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
