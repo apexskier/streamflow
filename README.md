@@ -1,7 +1,8 @@
 # Streamflow
 
 This is a mini physics game that emulates streamflow physics you might experience
-while rafting or kayaking.
+while rafting or kayaking. The algorithms thus far are mostly out of my head and
+don't have much bearing on reality.
 
 ```
 yarn
